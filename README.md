@@ -15,5 +15,5 @@ The available arguments as of version 1.3 are as follows:
     
 MACs can be formatted as either "xx:xx:xx:xx:xx:xx" or "xx-xx-xx-xx-xx-xx".
 
-The MAC is cut to the first 8 characters, then we search the formtated
+The MAC is cut to the first 8 characters, then we search the formated
 list of MAC vendors with that string.
