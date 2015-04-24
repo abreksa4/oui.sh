@@ -13,7 +13,7 @@ The available arguments as of version 1.3 are as follows:
     clean      	- Remove all created files
     lookup [MAC]- Lookup a MAC's vendor
     
-MACs can be formatted as either "xx:xx:xx:xx:xx:xx" or "xx-xx-xx-xx-xx".
+MACs can be formatted as either "xx:xx:xx:xx:xx:xx" or "xx-xx-xx-xx-xx-XX".
 
 The MAC is cut to the first 8 characters, then we search the formtated
 list of MAC vendors with that string.
